@@ -10,7 +10,7 @@
 This project has two parts to demonstrate the type of queries possible with SQL and then, in the second part of the project, how the data can be visualized in Tableau and Power BI. 
 
 ### 2. Process<a id="process"></a>
-- Data was downloaded from [_Our World in Data:_](https://ourworldindata.org/covid-deaths) on July 12, 2022. 
+- Data was downloaded from [_Our World in Data_](https://ourworldindata.org/covid-deaths) on July 12, 2022. 
 - The data set was modified (deleted columns) and split into two files: _CovidDeaths.csv_ and _CovidVaccinations.csIv_. 
 - Primary key fields were kept between the two datasets (location, date, continent, etc) in order to properly perform joins during the SQL data exploration process. However, data not related to deaths or vaccinations were left out of each respective file. 
 - Each dataset was loaded into Microsoft SQL Server Management Studio.
