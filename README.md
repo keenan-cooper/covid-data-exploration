@@ -4,7 +4,7 @@
 
 1. [Project Overview](#project)
 2. [Process](#process)
-3. [Project Movitivation](#motivation)
+3. [Project Movtivation](#motivation)
 
 ### 1. Project Overview<a id="project"></a>
 This project has two parts to demonstrate the type of queries possible with SQL and then, in the second part of the project, how the data can be visualized in Tableau and Power BI. 
