@@ -17,5 +17,5 @@ This project has two parts to demonstrate the type of queries possible with SQL 
 - Performed various queries that will then form the basis of the data used in the visualizations.
 - Visualizations to be shared on my personal tableau and Power BI accounts. 
 
-3. [Project Movitivation](#motivation)
-These projects--first this SQL project then the tableau and Power BI dashboard--will form a part of my portfolio and hopefully demonstate to future employers my ability and potential. It was good practice to apply what I've learned through Datacamp and Udacity and have a set of queries I can refer to in the future. Skills used: joins, CTE's, temp tables, window functions, aggregate functions, views, data type conversion.
+###3.Project Motivation<a id="motivation"></a>
+These projects -- this SQL project then the tableau and Power BI dashboard -- will form a part of my portfolio and with aim to demonstate to future employers my ability and potential. It was good practice to apply what I've learned through Datacamp and Udacity and have a set of queries I can refer to in the future. Skills used: joins, CTE's, temp tables, window functions, aggregate functions, views, data type conversion.
